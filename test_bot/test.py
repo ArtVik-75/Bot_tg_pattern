@@ -1,0 +1,1 @@
+print("TG bot test")
